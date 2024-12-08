@@ -1,0 +1,50 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables file
+.env
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache and log files
+*.log
+*.pot
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python egg and package files
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# MyPy, PyTest, and coverage reports
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# PyInstaller
+*.spec
+
+# IDE files
+.idea/
+.vscode/
