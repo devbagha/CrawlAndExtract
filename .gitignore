@@ -49,6 +49,4 @@ htmlcov/
 .idea/
 .vscode/
 
-# Jupyter notebook files
-*.ipynb_checkpoints/
-*.ipynb
+x
