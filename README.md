@@ -83,6 +83,14 @@
     </section>
 
 <section>
+        <h2>Output</h2>
+        <p>Linear</p>
+       <img src=""/>
+  <p>Parallel</p>
+       <img src=""/>
+    </section>
+    
+<section>
         <h2>Conclusion</h2>
         <p>
             This project will create a powerful tool for large-scale web data collection using parallel processing techniques. By automating the process of crawling websites and extracting contact information, it will provide businesses and researchers with an efficient way to generate valuable datasets. The use of parallel processing will ensure that even large-scale data collection efforts can be completed in a fraction of the time traditionally required.
@@ -130,8 +138,14 @@ cd &lt;repository-folder&gt;
             <h2>Run the Project</h2>
             <ol>
                 <li>Ensure the virtual environment is activated.</li>
-                <li>Run the main script:
-                    <pre>python main.py</pre>
+                <li>Run the main script for linear execution :
+                    <pre>cd linear
+                     python main.py</pre>
+                </li>
+
+  <li>Run the main script for parallel execution :
+                    <pre>cd parallel
+                     python main.py</pre>
                 </li>
             </ol>
         </li>
