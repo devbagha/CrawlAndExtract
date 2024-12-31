@@ -140,12 +140,12 @@ cd &lt;repository-folder&gt;
                 <li>Ensure the virtual environment is activated.</li>
                 <li>Run the main script for linear execution :
                     <pre>cd linear
-                     python main.py</pre>
+python main.py</pre>
                 </li>
 
   <li>Run the main script for parallel execution :
                     <pre>cd parallel
-                     python main.py</pre>
+python main.py</pre>
                 </li>
             </ol>
         </li>
