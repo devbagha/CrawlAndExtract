@@ -85,9 +85,9 @@
 <section>
         <h2>Output</h2>
         <p>Linear</p>
-       <img src=""/>
+       <img src="https://github.com/devbagha/CrawlAndExtract/blob/main/linear_output.png"/>
   <p>Parallel</p>
-       <img src=""/>
+       <img src="https://github.com/devbagha/CrawlAndExtract/blob/main/parallel_output.jpg"/>
     </section>
     
 <section>
