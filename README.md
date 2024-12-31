@@ -1,18 +1,18 @@
-    <section>
+ <section>
         <h2>Objective</h2>
         <p>
             The goal of this project is to create a parallelized system capable of searching for a keyword on Google, retrieving a list of relevant websites, and extracting contact page details and email addresses from these websites. The system will significantly reduce the time required to gather large-scale contact information and produce a well-organized dataset for further use.
         </p>
     </section>
 
-    <section>
+<section>
         <h2>Problem Statement</h2>
         <p>
             Manual data collection from websites is slow and inefficient. Sequential web scraping methods are time-consuming, especially when dealing with large datasets. This project proposes using parallel processing to speed up the extraction of contact information from websites, enabling faster and more efficient data gathering.
         </p>
     </section>
 
-    <section>
+<section>
         <h2>Proposed Solution</h2>
         <ol>
             <li>
@@ -57,7 +57,7 @@
         </ol>
     </section>
 
-    <section>
+<section>
         <h2>Tools and Technologies</h2>
         <ul>
             <li><strong>Programming Language:</strong> Python</li>
@@ -66,7 +66,7 @@
         </ul>
     </section>
 
-    <section>
+<section>
         <h2>Expected Outcome</h2>
         <p>The system will generate a dataset containing:</p>
         <ul>
@@ -82,7 +82,7 @@
         </ul>
     </section>
 
-    <section>
+<section>
         <h2>Conclusion</h2>
         <p>
             This project will create a powerful tool for large-scale web data collection using parallel processing techniques. By automating the process of crawling websites and extracting contact information, it will provide businesses and researchers with an efficient way to generate valuable datasets. The use of parallel processing will ensure that even large-scale data collection efforts can be completed in a fraction of the time traditionally required.
