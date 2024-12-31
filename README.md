@@ -88,3 +88,51 @@
             This project will create a powerful tool for large-scale web data collection using parallel processing techniques. By automating the process of crawling websites and extracting contact information, it will provide businesses and researchers with an efficient way to generate valuable datasets. The use of parallel processing will ensure that even large-scale data collection efforts can be completed in a fraction of the time traditionally required.
         </p>
     </section>
+<h1>Project Setup Instructions</h1>
+    <ol>
+        <li>
+            <h2>Clone the Repository</h2>
+            <p>Follow these steps to clone the project repository:</p>
+            <ol>
+                <li>Open a terminal or command prompt.</li>
+                <li>Navigate to the directory where you want to clone the project.</li>
+                <li>Run the following commands:
+                    <pre>
+git clone &lt;repository-url&gt;
+cd &lt;repository-folder&gt;
+                    </pre>
+                </li>
+            </ol>
+        </li>
+        <li>
+            <h2>Set Up a Virtual Environment</h2>
+            <ol>
+                <li>Create a virtual environment:
+                    <pre>python -m venv venv</pre>
+                </li>
+                <li>Activate the virtual environment:</li>
+                <ul>
+                    <li>On <b>Windows</b>:
+                        <pre>venv\Scripts\activate</pre>
+                    </li>
+                    <li>On <b>Mac/Linux</b>:
+                        <pre>source venv/bin/activate</pre>
+                    </li>
+                </ul>
+            </ol>
+        </li>
+        <li>
+            <h2>Install Dependencies</h2>
+            <p>Install the required Python packages using <code>requirements.txt</code>:</p>
+            <pre>pip install -r requirements.txt</pre>
+        </li>
+        <li>
+            <h2>Run the Project</h2>
+            <ol>
+                <li>Ensure the virtual environment is activated.</li>
+                <li>Run the main script:
+                    <pre>python main.py</pre>
+                </li>
+            </ol>
+        </li>
+    </ol>
